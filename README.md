@@ -1,4 +1,3 @@
-# Law-Connect-App
 # ⚖️ Law Connect – Legal Services Platform
 
 Law Connect is a full-stack web application built to bridge the gap between users seeking legal advice and attorneys providing professional services. It also features an AI-based assistant for basic legal guidance.
