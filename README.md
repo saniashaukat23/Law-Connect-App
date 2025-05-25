@@ -6,7 +6,6 @@ Law Connect is a full-stack web application built to bridge the gap between user
 ## 🚀 Features
 
 ### 🧑‍💼 For Users
-- Register and log in securely
 - Search and view attorney profiles
 - Ask legal questions from an AI assistant
 - Contact lawyers for consultations
