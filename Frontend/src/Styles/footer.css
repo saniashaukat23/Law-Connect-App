@@ -1,0 +1,44 @@
+.footer {
+  background-color: #152833;
+  padding: 50px 0px;
+}
+.footer-top {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+.footer-divider {
+  padding: 0px 0px 3rem 0px;
+  border-bottom: 1px solid #ffff;
+}
+.footer-top img {
+  position: absolute;
+  width: 115px;
+  height: 115px;
+  opacity: 0.1;
+  left: 70px;
+}
+.footer-top p {
+  font-size: 2rem;
+  line-height: 2.2rem;
+  font-family: "Playfair Display", serif;
+  margin-right: 35px;
+}
+.footer-top p span {
+  text-decoration: underline;
+  font-style: italic;
+}
+.footer-bar {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+.bot-text {
+  color: darkgrey;
+}
+.side-bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

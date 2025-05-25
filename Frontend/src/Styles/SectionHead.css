@@ -1,0 +1,31 @@
+.head-top {
+  color: #b98e44;
+  font-size: 1.5rem;
+  margin-bottom: 0px;
+}
+.heading {
+  font-size: 2.5rem;
+  text-align: center;
+  line-height: 2.5rem;
+  color: black;
+}
+.head-text {
+  color: #898d95;
+  width: 90%;
+  text-align: center;
+  align-self: center;
+}
+.section-heading {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+.heading span {
+  font-style: italic;
+  font-family: "Playfair Display", serif !important;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 5px;
+}

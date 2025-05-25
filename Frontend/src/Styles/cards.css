@@ -1,0 +1,35 @@
+* {
+  font-family: "DM Sans", sans-serif;
+}
+.card-container {
+  padding: 70px 20px;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  box-shadow: 3px 6px 10px rgba(0, 0, 0, 0.2);
+  width: 250px;
+  border-radius: 7px;
+  transition: transform 0.3s ease;
+}
+.card-container img {
+  width: 100px;
+  height: 100px;
+}
+.card-text {
+  text-align: center;
+  color: #868686;
+  line-height: 1.75rem;
+}
+.card-heading {
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+.card-container:hover {
+  transform: translateY(-5px);
+}
+.card-sec {
+  margin-top: 2rem;
+}
